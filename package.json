@@ -1,0 +1,24 @@
+{
+  "name": "hexo-live2d-api",
+  "version": "1.0.0",
+  "description": "hexo live2d api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CrazyZhang666",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrazyZhang666/hexo-live2d-api.git"
+  },
+  "keywords": [
+    "hexo",
+    "live2d",
+    "api"
+  ],
+  "bugs": {
+    "url": "https://github.com/CrazyZhang666/hexo-live2d-api/issues"
+  },
+  "homepage": "https://github.com/CrazyZhang666/hexo-live2d-api#readme"
+}
